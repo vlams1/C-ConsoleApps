@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIce Program", "DIce Program\DIce Program.csproj", "{0F582992-5FD6-4748-B946-0F44DA862C4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{FD99D09D-8EFE-48DD-80FA-C3310DAE4C0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reload Mechanism", "Reload Mechanism\Reload Mechanism.csproj", "{4743913A-219F-42E5-A48A-A2CE9A932C6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Russian Roulette", "Russian Roulette\Russian Roulette.csproj", "{7366808A-38F2-4970-9675-1E35760E9097}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F582992-5FD6-4748-B946-0F44DA862C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F582992-5FD6-4748-B946-0F44DA862C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F582992-5FD6-4748-B946-0F44DA862C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F582992-5FD6-4748-B946-0F44DA862C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD99D09D-8EFE-48DD-80FA-C3310DAE4C0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD99D09D-8EFE-48DD-80FA-C3310DAE4C0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD99D09D-8EFE-48DD-80FA-C3310DAE4C0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD99D09D-8EFE-48DD-80FA-C3310DAE4C0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4743913A-219F-42E5-A48A-A2CE9A932C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4743913A-219F-42E5-A48A-A2CE9A932C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4743913A-219F-42E5-A48A-A2CE9A932C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4743913A-219F-42E5-A48A-A2CE9A932C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7366808A-38F2-4970-9675-1E35760E9097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7366808A-38F2-4970-9675-1E35760E9097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7366808A-38F2-4970-9675-1E35760E9097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7366808A-38F2-4970-9675-1E35760E9097}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
