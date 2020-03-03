@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reload Mechanism", "Reload 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Russian Roulette", "Russian Roulette\Russian Roulette.csproj", "{7366808A-38F2-4970-9675-1E35760E9097}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vector Math", "Vector Math\Vector Math.csproj", "{378B516E-627C-4D6C-AD20-C244C832AC84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{7366808A-38F2-4970-9675-1E35760E9097}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7366808A-38F2-4970-9675-1E35760E9097}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7366808A-38F2-4970-9675-1E35760E9097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{378B516E-627C-4D6C-AD20-C244C832AC84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378B516E-627C-4D6C-AD20-C244C832AC84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378B516E-627C-4D6C-AD20-C244C832AC84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378B516E-627C-4D6C-AD20-C244C832AC84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

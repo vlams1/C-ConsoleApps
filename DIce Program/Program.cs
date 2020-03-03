@@ -5,20 +5,16 @@ namespace Dice_Program {
 		static void Main(string[] args) {
 			Random rnd = new Random();
 			int n;
-			while (true) {
+			while (Console.ReadLine() != "exit") {
 				n = rnd.Next(1, 7);
-				
-				string a = n % 2 > 0 ? "O" : " ";
-				string b = n > 1 ? "O" : " ";
-				string c = n > 3 ? "O" : " ";
-				string d = n > 5 ? "O" : " ";
-				string e = n > 7 ? "O" : " ";
-				
 				Console.Clear();
-				Console.WriteLine("\n{2}  {4}  {1}\n{3}  {0}  {3}\n{1}  {4}  {2}\n",a,b,c,d,e);
-				if (Console.ReadLine() == "exit") return;
+				Console.WriteLine("\n{2}  {4}  {1}\n{3}  {0}  {3}\n{1}  {4}  {2}\n",
+					n % 2 == 1 ? "O" : " ",
+					n > 1 ? "O" : " ",
+					n > 3 ? "O" : " ",
+					n > 5 ? "O" : " ",
+					n > 7 ? "O" : " ");
 			}
-
 		}
 	}
 }
